@@ -8,4 +8,6 @@ Geht man durch die Tür auf der linken Seite des Hauses, das dem auf dem Cover d
 Schließlich erreicht man die nächste Tunnelszene, in der der Tunnel zuerst schmaler wird und sich dann weit ausdehnt, wie auch im Buch beschrieben. „Manchmal wird der Flur bereiter, bis Navidson an einem Punkt schwören könnte, er fährt eine gewaltige Hochebene hinunter.“ (Danielewski, S.519). Einige der Textpassagen finden sich als Hinweise im Verlauf der Applikation. Der nächste Abschnitt im Spiel ist ein halb runder türkisfarbener Tunnel (Abb.11), von dessen Decke Schneeflocken herabfallen. Nun gelangt man zur letzten Szene. „Übrig bleibt allein die ascheschwarze Platte, auf der er steht, nun offenbar von nichts getragen: unten und oben Finsternis und natürlich Finsternis auch ringsherum.“ (Danielewski, S. 552). Und so sieht diese Szene aus, komplett schwarz, abgesehen von dieser Textpassage, einem Buch, „House of Leaves“ und einer Streichholzpackung (Abb.12). Nach einiger Zeit wird das Spiel neugestartet. 
 
 Da der Übergang in eine nächste Szene manchmal etwas länger dauern kann, haben wir ein „Wait…“ und einen Fade-to-Black-Effekt bei jeder Szene eingebaut. Dadurch wird signalisiert, dass, das Spiel sich nicht aufgehängt hat, leider haben wir keine andere Lösung für die manchmal zu langen Wartezeiten gefunden. 
+
+![ScreenShot](Startszene.jpg)
  
