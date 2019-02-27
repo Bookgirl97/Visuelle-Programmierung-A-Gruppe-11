@@ -11,5 +11,5 @@ Da der Übergang in eine nächste Szene manchmal etwas länger dauern kann, habe
 
 Die Exe-Datei lässt sich mit den Pfeiltasten steuern und mit der Maus kann man umher schauen. Die APK läuft von alleine, die Richtung wird durch Kopfbewegungen verändert, wodurch es eine Herrausforderung ist die Wendeltreppen-Szene zu meistern, vor allem, da man nach dem Teleportieren in die nächste Szene wieder die gleiche Blickrichtung wie zu Beginn einnehmen muss, um in dieser Tunnelszene vorwärts zu laufen.
 
-Die Exe-Datei befindet sich im Ordner dist, die APK war leider zu groß. In der Datei Abbildungen finden sich die Screenshots zur obigen Projektbeschreibung. 
+Die Exe-Datei befindet sich im Ordner dist, die APK war leider zu groß. In der Datei Abbildungen finden sich die Screenshots zur obigen Projektbeschreibung. Alle verwendeten Assets sind in den oben aufgeführten Ordnern. Zusätzlich wurden die Standard Assets und die GoogleVR Assets verwendet.
  
