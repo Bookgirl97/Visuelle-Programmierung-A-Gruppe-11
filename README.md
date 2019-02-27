@@ -9,5 +9,5 @@ Schließlich erreicht man die nächste Tunnelszene, in der der Tunnel zuerst sch
 
 Da der Übergang in eine nächste Szene manchmal etwas länger dauern kann, haben wir ein „Wait…“ und einen Fade-to-Black-Effekt bei jeder Szene eingebaut. Dadurch wird signalisiert, dass, das Spiel sich nicht aufgehängt hat, leider haben wir keine andere Lösung für die manchmal zu langen Wartezeiten gefunden. 
 
-![ScreenShot](Startszene.jpg)
+![ScreenShot](Startszene.png)
  
