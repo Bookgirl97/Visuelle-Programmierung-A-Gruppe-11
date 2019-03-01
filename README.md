@@ -15,3 +15,6 @@ Die Exe-Datei befindet sich im Ordner dist, die APK war leider zu groß. In der 
 
 Frederike Niehues, Sam Kaufel
  
+ ![GitHub Logo](/images/Startszene.png)
+Format: ![Alt Text](url)
+
