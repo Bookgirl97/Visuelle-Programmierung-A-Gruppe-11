@@ -14,6 +14,10 @@ Die Exe-Datei lässt sich mit den Pfeiltasten steuern und mit der Maus kann man 
 Die Exe-Datei befindet sich im Ordner dist, die APK war leider zu groß. In der Datei Abbildungen befinden sich die Screenshots zur obigen Projektbeschreibung. Alle verwendeten Assets sind in den oben aufgeführten Ordnern. Zusätzlich wurden die Standard Assets und die GoogleVR Assets verwendet.
 
 Frederike Niehues, Sam Kaufel
+
+Abbildungen: 
+
+Abb.1
  
  ![GitHub Logo](/Images/Startszene.png)
 Format: ![Alt Text](url)
